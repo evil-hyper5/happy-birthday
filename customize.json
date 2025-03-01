@@ -1,8 +1,8 @@
 {
   "greeting": "hello",
-  "name": "Darshana ji",
+  "name": "musukan ji",
   "greetingText": "hope, you are fine",
-  "wishText": " its New Year also : Another beautiful year with you (Madaam ji);)",
+  "wishText": " its 2025 another beautiful year with you (Madaam ji);)",
   "imagePath": "img/lydia2.png",
   "text1": "Sorry for being late !!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -17,7 +17,10 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happiest Birthday![madam ji]",
-  "outroText": "Enjoy Your Day ",
+  "outroText": "Mahengi hai tu Kohinoor se bhi,
+  Khoobsurat hai tu hoor se bhi.
+Door se dikhte hain chaand me daag, magar!!
+Bedaag hai tu door se bhi",
   "replayText": "if you liked , EK KISSI TOH DESERVE KRTA HU",
   "outroSmiley": ":)"
 }
